@@ -41,7 +41,7 @@ let texto1 = `
 
 🔸 pkg install yarn
 
-🔸 git clone https://github.com/elrebelde21/The-LoliBot-MD
+🔸 git clone https://github.com/Belcebu98/by_belce
 
 🔸  cd The-LoliBot-MD
 

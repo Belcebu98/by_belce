@@ -120,7 +120,7 @@ let menu = `
 ┃🌅 ${usedPrefix}pikachu *Texto*
 ┃🌅 ${usedPrefix}logochristmas *Texto*
 ╰━━━━━━━━━━━━━━━━⬣`.trim()
-conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/elrebelde21/The-LoliBot-MD', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
+conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/Belcebu98/by_belce', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
 ['𝙈𝙚𝙣𝙪́ 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙤 💫', '.allmenu'],
 ['𝙈𝙚𝙣𝙪 𝙋𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡 ⚡', '#menu']
 ], m,)

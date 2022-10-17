@@ -58,7 +58,7 @@ let info = `
 ╰━━━[ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞𝙤𝙣 ]━━⬣`.trim()
 conn.sendFile(m.chat, vn, 'infobot.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true })
 
-conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/elrebelde21/The-LoliBot-MD', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
+conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/Belcebu98/by_belce', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
 ['𝙈𝙚𝙣𝙪́ 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙤 ✨', '#menu'],
 ['𝘼𝙪𝙙𝙞𝙤𝙨 🔰', '/audios'],
 ], m,)
@@ -66,7 +66,7 @@ conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/elrebelde21/The-Loli
 }
 handler.help = ['infobot']
 handler.tags = ['info', 'tools']
-handler.command = /^(infobot|informacionbot|infogata|informacióngata|informaciongata)$/i
+handler.command = /^(infobot|informacionbot|)$/i
 export default handler
 
 function clockString(ms) {

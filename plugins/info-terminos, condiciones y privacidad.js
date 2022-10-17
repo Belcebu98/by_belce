@@ -107,7 +107,7 @@ _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodi
 
 
 *ESTE ES EL REPOSITORIO OFICIAL*
-*https://github.com/elrebelde21/The-LoliBot-MD*
+*https://github.com/Belcebu98/by_belce*
 
 *GRUPOS OFICIAL DE ASISTENCIA*
 *si necesitas ayuda o pregunta entra al grupo de bot ofc*

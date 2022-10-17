@@ -6,7 +6,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾',
 body: 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/elrebelde21/The-LoliBot-MD`}}})   
+sourceUrl: `https://github.com/Belcebu98/by_belce`}}})   
 }
 handler.help = ['linkgroup']
 handler.tags = ['group']

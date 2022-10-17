@@ -93,7 +93,7 @@ let menu = `╭━━〔 *${wm}* 〕━━⬣
 ┃ ✪ *𝙐𝙨𝙪𝙖𝙧𝙞𝙤*
 ┃ ➥ *${Object.keys(global.db.data.users).length}* 
 ╰━━━━━━〔 *𓃠 ${vs}* 〕━━━━━━⬣`.trim()
-conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/elrebelde21/The-LoliBot-MD', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
+conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/Belcebu98/by_belce', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
 ['𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙞𝙖 𝙥𝙤𝙧 𝘿𝙞𝙖𝙢𝙖𝙣𝙩𝙚 ⚡', '.buy'],
 ['𝗟𝗼𝗹𝗶𝗰𝗼𝗶𝗻𝘀 𝙥𝙤𝙧 𝘿𝙞𝙖𝙢𝙖𝙣𝙩𝙚 🐈', '/buy2'],
 ['𝙏𝙤𝙥𝙨 🏆', '#top']

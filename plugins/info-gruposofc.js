@@ -43,7 +43,7 @@ https://chat.whatsapp.com/KbDiJuy4qLAIWSchpj3jCa\n
  𝙨𝙞 𝙦𝙪𝙞𝙚𝙧𝙚 𝙦𝙪𝙚 𝙩𝙪 𝙜𝙧𝙪𝙥𝙤 𝙖𝙥𝙖𝙧𝙚𝙯𝙘𝙖 𝙖𝙘𝙖 𝙝𝙖𝙗𝙡𝙖 𝙘𝙤𝙣 𝙚𝙡 𝙖𝙙𝙢𝙞𝙣 𝙤𝙛𝙘 𝙙𝙚𝙡 𝙗𝙤𝙩
 `.trim()
   
-conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/elrebelde21/The-LoliBot-MD', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
+conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/Belcebu98/by_belce', 'ℬℰℒ𝒞ℰℬ𝒪𝒯 𝒪ℱ𝒞', null, null, [
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 ✅', '.cuentasgb'],
 ['🎁 𝘿𝙤𝙣𝙖𝙧', '.donar'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', '/menu']

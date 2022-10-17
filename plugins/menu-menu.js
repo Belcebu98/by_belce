@@ -348,7 +348,7 @@ let str = `
 ┣ ඬ⃟👑 _${usedPrefix}disable *autoread*_
 ┗━━━━━━━━━━━━━┛
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/elrebelde21/The-LoliBot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/Belcebu98/by_belce', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['🔰grupos', '.grupos'],
 ['🔰 𝙈𝙚𝙣𝙪 𝘼𝙪𝙙𝙞𝙤𝙨 🔰', '.audios']
 
