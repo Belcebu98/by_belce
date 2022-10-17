@@ -68,7 +68,7 @@ let username = conn.getName(who)
 //user.registered = false
 
 let Terminos = `
-*_Toda la información que se mencione aquí no excluye a la Propietario del Bot, y Propietarios Acredores al uso de The LoliBot-MD_*
+*_Toda la información que se mencione aquí no excluye a la Propietario del Bot, y Propietarios Acredores al uso de BELCEBOT_*
 *_No Somos responsables del desconocimiento que tenga por parte de esta información._* 
 
 
@@ -103,7 +103,7 @@ _- NO usar el Bot siendo Número(s) Oficial(es) para llevar a cabo alguna acció
 
 _- NO use el comando de SPAM repetidamente, ya que Provocará un Mal funcionamiento en el BOT, tampoco envie al BOT mensajes que puedan comprometer el Funcionamiento de la misma._
 
-_- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodidad, intranquilidad, molestia u otro termino tajante, se tomarán las respectivas sanciones o llamados de alerta para prevalecer la integridad de los/las Usuarios(as) y funcionamiento de The LoliBot-MD._
+_- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodidad, intranquilidad, molestia u otro termino tajante, se tomarán las respectivas sanciones o llamados de alerta para prevalecer la integridad de los/las Usuarios(as) y funcionamiento de BELCEBOT._
 
 
 *ESTE ES EL REPOSITORIO OFICIAL*
@@ -118,9 +118,9 @@ _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodi
 *https://facebook.com/groups/721802642266362/*
 
 
-*~ Muchas Gracias Por tomarte el tiempo en informate sobre The LoliBot-MD*
+*~ Muchas Gracias Por tomarte el tiempo en informate sobre BELCEBOT*
 `.trim()
-conn.sendHydrated(m.chat, Terminos,  `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Grupo Oficial asistencia facebook| https://facebook.com/groups/721802642266362/`, pp, 'https://github.com/elrebelde21/The-LoliBot-MD', 'The LoliBot-MD', null, null, [
+conn.sendHydrated(m.chat, Terminos, null, null, [
 ['menu conpleto', '.allmenu'],
 ['listamenu', '/menulista'],
 ['menucompleto', '#menu']

@@ -3,12 +3,11 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
 *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤* 
-wa.me/5492266466080* *(no bot)*
-*wa.me/972529277406 (bot)*
-*wa.me/972529277535 (bot²)*
+wa.me/34637549064* *(no bot)*
+
 `.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
+
 'mimetype': `application/${document}`,
 'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
 'fileLength': 99999999999999,

@@ -5,7 +5,7 @@ ${pickRandom([` _Hola ${name}_\n\n_Estoy aquí😎_`, `_Si?👀_`, `_q te pica_`
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 }
-handler.customPrefix = /Lolibot|The LoliBot-MD|lolibot|al bot|elbot|el bot|haybot/i
+handler.customPrefix = /bot|Belcebot|belcebot|al bot|elbot|el bot|haybot/i
 handler.command = new RegExp
 
 export default handler

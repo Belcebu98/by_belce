@@ -3,7 +3,7 @@
 ### —◉ 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁?
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨ 
 
-<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/34637549064" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <a href="http://wa.me/972529277406" target="blank"><img src="https://img.shields.io/badge/Bot ofc-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
@@ -58,7 +58,7 @@
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd The-LoliBot-MD
+> cd by_belce
 > npm start
 ```
 ----
@@ -67,7 +67,7 @@
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd The-LoliBot-MD
+> cd by_belce
 > rm -rf session.data.json
 > npm start
 ```
@@ -97,7 +97,7 @@
   
 ### `—◉ 📝 𝐍𝐎𝐓𝐀 📝`
 ```bash
-🔸𝐄𝐒𝐓𝐄 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐏𝐮𝐁𝐋𝐈𝐂𝐀 𝐋𝐀 𝐕𝐄𝐑𝐒𝐈𝐎́𝐍 𝐀𝐂𝐓𝐔𝐀𝐋|𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 𝐓𝐡𝐄 𝐋𝐎𝐋𝐈𝐁𝐎𝐓-𝐌𝐃
+🔸𝐄𝐒𝐓𝐄 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐏𝐮𝐁𝐋𝐈𝐂𝐀 𝐋𝐀 𝐕𝐄𝐑𝐒𝐈𝐎́𝐍 𝐀𝐂𝐓𝐔𝐀𝐋|𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 BELCEBOT
 🔸𝐄𝐒 𝐏𝐎𝐒𝐈𝐁𝐋𝐄 𝐐𝐔𝐄 𝐄𝐋 𝐁𝐎𝐓 𝐓𝐄𝐍𝐆𝐀 𝐀𝐋𝐆𝐔𝐍𝐀𝐒 𝐅𝐀𝐋𝐋𝐀𝐒, 𝐒𝐄 𝐈𝐑𝐀𝐍 𝐒𝐎𝐋𝐔𝐂𝐈𝐎𝐍𝐀𝐍𝐃𝐎 𝐂𝐎𝐍𝐅𝐎𝐑𝐌𝐄 𝐒𝐄 𝐕𝐀𝐘𝐀𝐍 𝐃𝐄𝐓𝐄𝐂𝐓𝐀𝐍𝐃𝐎
 🔸𝐒𝐈 𝐕𝐀𝐒 𝐀 𝐄𝐃𝐈𝐓𝐀𝐑 𝐏𝐎𝐑 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎 𝐃𝐄𝐉𝐀 𝐋𝐎𝐒 𝐂𝐑𝐄𝐃𝐈𝐓𝐎𝐒 𝐃𝐄𝐋 𝐁𝐎𝐓 
 🔸𝐄𝐋 𝐁𝐎𝐓 𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐓𝐈𝐁𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋 𝐎 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒
@@ -107,9 +107,9 @@
 ```
 ----
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
 
-`The LoliBot-MD _ Byelrebelde`
+
+`BELCEBOT _ By_Belcebu`
 
 ----
 
